@@ -6,7 +6,7 @@ The Lotus codebase consists of various components that build on-top of existing 
 
 | Version  | Release Date | Build Type   |
 | -------- |:------------:| ------------:|
-| 1.0.0    | 09-12-2017   | experimental |
+| 1.0.0    | TBA   | experimental |
 
 ## Bugs
 There's likely numerous bugs lurking, if you happen to stumble on one of these, please email me with as much detail: **_contact@warren2go.com_**
